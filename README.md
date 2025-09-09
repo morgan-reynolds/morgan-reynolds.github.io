@@ -1,4 +1,4 @@
-![Image of Morgan Reynolds](DSCO9359)
+![Image of Morgan Reynolds](images/DSCO9359)
 
 ## About Me
 I am a M.S student in the UConn EEB department interested in species response to climate change, symbiosis between species, sustainable agricultre, and conservation biology
