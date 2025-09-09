@@ -7,4 +7,4 @@ I am a M.S student in the UConn EEB department interested in species response to
 
 [Contact Info](contact-info.md)
 
-[UCONN EEB Department] (EEB-webaddress.md)
+[UCONN EEB Department](EEB-webaddress.md)
