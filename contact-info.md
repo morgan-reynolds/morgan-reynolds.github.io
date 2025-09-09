@@ -13,4 +13,4 @@ Postal address:
     Storrs, CT 06269-3043
     U.S.A.
 
-[Back to Home](https://morgan-reynolds.github.io/)
+[Back to Home](https://github.com/morgan-reynolds/)
